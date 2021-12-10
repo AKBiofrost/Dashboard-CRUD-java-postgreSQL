@@ -1,0 +1,5 @@
+Frames_formularios.Ventas_consultar_pagos$1
+Frames_formularios.Ventas_consultar_pagos$2
+Frames_formularios.Ventas_consultar_pagos$3
+Frames_formularios.Ventas_consultar_pagos$4
+Frames_formularios.Ventas_consultar_pagos

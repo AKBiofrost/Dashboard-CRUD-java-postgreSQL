@@ -1,0 +1,14 @@
+Frames_formularios.Ventas_Datos_clientes$1
+Frames_formularios.Ventas_Datos_clientes$2
+Frames_formularios.Ventas_Datos_clientes$3
+Frames_formularios.Ventas_Datos_clientes$4
+Frames_formularios.Ventas_Datos_clientes
+Frames_formularios.Ventas_Datos_clientes$9
+Frames_formularios.Ventas_Datos_clientes$5
+Frames_formularios.Ventas_Datos_clientes$11
+Frames_formularios.Ventas_Datos_clientes$6
+Frames_formularios.Ventas_Datos_clientes$10
+Frames_formularios.Ventas_Datos_clientes$7
+Frames_formularios.Ventas_Datos_clientes$13
+Frames_formularios.Ventas_Datos_clientes$8
+Frames_formularios.Ventas_Datos_clientes$12

@@ -1,0 +1,11 @@
+Frames_formularios.Compra_Reportes$6
+Frames_formularios.Compra_Reportes$5
+Frames_formularios.Compra_Reportes$4
+Frames_formularios.Compra_Reportes$3
+Frames_formularios.Compra_Reportes$10
+Frames_formularios.Compra_Reportes$2
+Frames_formularios.Compra_Reportes$1
+Frames_formularios.Compra_Reportes
+Frames_formularios.Compra_Reportes$9
+Frames_formularios.Compra_Reportes$8
+Frames_formularios.Compra_Reportes$7
